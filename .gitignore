@@ -1,0 +1,12 @@
+ECHO is on.
+# Ignore ipynb
+*.ipynb
+
+# Ignore docs
+*.docx
+*.docs
+*.csv
+*.pdf
+
+# ignore checkpoints
+*.ipynb_checkpoints
